@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">login_ssit</string>
+    <string name="name_error">Please enter the name</string>
+    <string name="email_error">Please enter the email</string>
+    <string name="error_invalid_email">Invalid email</string>
+    <string name="password_error">Please enter password</string>
+    <string name="error_invalid_password">Invalid Password</string>
+</resources>
